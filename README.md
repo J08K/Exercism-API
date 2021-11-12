@@ -1,2 +1,3 @@
-# Exercism-API
- A python implementation for the Exercism-API
+# Exercism API
+
+Very much in-progress implementation of the Exercism API on [Exercism(dot)org](https://exercism.org/).
